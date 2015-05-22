@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# Hand-Made BY
+
+    Fabio Cencetti -- @_kreo
+
+# Technology Colophon
+
+    HTML5, CSS3
+    Bootstrap, Normalize.css, jQuery, Modernizr

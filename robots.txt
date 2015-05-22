@@ -1,0 +1,6 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /identity/
+
+Sitemap: http://www.kreo.me/sitemap.xml
