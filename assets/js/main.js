@@ -4,6 +4,8 @@
 
 var phrases = [
     'Web Designer &amp; <br/><strong>Front-end Developer</strong>.',
+    'I push to limit front-end at<br/><strong><a target="_blank" href="https://bauzaar.com">Bauzaar</a>.</strong>',
+    'I Design <strong>Responsive</strong> <br/>web <strong>pixels</strong>.',
     'I design <strong>HTML5</strong> <br/>custom themes for <strong>web agency</strong>.',
     'I design website using <br><strong>HTML5 / CSS3 / jQuery</strong>.',
     'I love my <br>beautiful <strong>wife.</strong>',
