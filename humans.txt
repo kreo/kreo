@@ -7,5 +7,5 @@
 
 # Technology Colophon
 
-    HTML5, CSS3
-    Bootstrap, Normalize.css, jQuery, Modernizr
+    HTML5, CSS3, Javascript
+    jQuery, Modernizr
