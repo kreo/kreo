@@ -9,6 +9,7 @@ var phrases = [
     'I design <strong>HTML5</strong> <br/>custom themes for <strong>web agency</strong>.',
     'I design website using <br><strong>HTML5 / CSS3 / jQuery</strong>.',
     'I love my <br>beautiful <strong>wife.</strong>',
+    'I love my <br>beautiful <strong>daughter.</strong>',
     'I love working on the <br/><strong>front end.</strong>',
     'I like black &amp; white<br><strong>photography</strong>',
     'I enhance websites <br>with some <strong>javascript</strong>',
@@ -20,7 +21,7 @@ var phrases = [
 ];
 
 var stack = [];
-var delay = 6000;
+var delay = 3000;
 var limit = 1; // change probability, 1-10
 var isPhraseHovered = false;
 var scrollDuration = 300;
@@ -207,13 +208,13 @@ function update(index) {
     var $phrase = $('.phrase');
 
     var directions = [
-        'bounceInUp',
-        'bounceInDown'
+        'fadeInLeft',
+        'fadeInRight'
     ];
 
     var direction = Math.floor(Math.random() * directions.length);
 
-    $phrase.removeClass('bounceInUp bounceInDown');
+    $phrase.removeClass('fadeInLeft fadeInRight');
 
     setTimeout(function() {
         $phrase.addClass(directions[direction]);
