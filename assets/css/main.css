@@ -4,7 +4,7 @@
  * Version: 1.1
  */
 
-* {
+.no-selectable * {
     user-select: none;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -18,12 +18,22 @@
     -o-user-select: text;
 }
 
-::selection {
-    background: rgba(255, 255, 255, 0.25);
+/*::selection {*/
+    /*background: rgba(255, 255, 255, 0.25);*/
+/*}*/
+
+/*::-moz-selection {*/
+    /*background: rgba(255, 255, 255, 0.25);*/
+/*}*/
+
+::-moz-selection { /* Code for Firefox */
+    color: #fff;
+    background: #37F3FD;
 }
 
-::-moz-selection {
-    background: rgba(255, 255, 255, 0.25);
+::selection {
+    color: #fff;
+    background: #37F3FD;
 }
 
 html, body {
@@ -40,7 +50,7 @@ body {
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
 
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
+    /*text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);*/
 
     -webkit-animation-name: 'fade';
     -webkit-animation-duration: 1s;
@@ -244,7 +254,7 @@ header h2 {
     margin: 0 0 30px 0;
     opacity: 0.8;
     color: white;
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+    /*text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);*/
 }
 
 .social-icons {
