@@ -3,21 +3,20 @@
 ===============================*/
 
 var phrases = [
-    'Web Designer &amp; <br/><strong>Front-end Developer</strong>.',
-    'I push to limit front-end at<br/><strong><a target="_blank" href="https://bauzaar.com">Bauzaar</a>.</strong>',
-    'I Design <strong>Responsive</strong> <br/>web <strong>pixels</strong>.',
-    'I design <strong>HTML5</strong> <br/>custom themes for <strong>web agency</strong>.',
-    'I design website using <br><strong>HTML5 / CSS3 / jQuery</strong>.',
-    'I love my <br>beautiful <strong>wife.</strong>',
-    'I love my <br>beautiful <strong>daughter.</strong>',
-    'I love working on the <br/><strong>front end.</strong>',
+    'Web Designer &amp; <br/><strong>Front-end Developer</strong>',
+    'I push to limit front-end at<br/><strong><a target="_blank" href="https://bauzaar.com">Bauzaar</a></strong>',
+    'I Design <strong>Responsive</strong> <br/>web <strong>pixels</strong>',
+    'I design <strong>HTML5</strong> <br/>custom themes for <strong>web agency</strong>',
+    'I design website using <br><strong>HTML5 / CSS3 / jQuery</strong>',
+    'I love my <br>beautiful <strong>wife</strong>',
+    'I love my <br>beautiful <strong>daughter</strong>',
     'I like black &amp; white<br><strong>photography</strong>',
     'I enhance websites <br>with some <strong>javascript</strong>',
     'I am specialized in designing<br><strong>custom html themes</strong> and <strong>css niceties</strong>',
-    'I design website at<br/><strong><a target="_blank" href="http://comma3.com">Comma3</a>.</strong>',
+    'I design website at<br/><strong><a target="_blank" href="http://comma3.com">Comma3</a></strong>',
     'I craft responsive <br/><strong>web pixels.</strong>',
-    'I am on the front as <br/><strong>Freelance</strong>.',
-    'I create <br/><strong>Responsive Website</strong>.'
+    'I am on the front as <br/><strong>Freelance</strong>',
+    'I create <br/><strong>Responsive Website</strong>'
 ];
 
 var stack = [];
