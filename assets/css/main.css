@@ -689,6 +689,7 @@ header h2 {
     }
 
     .footer {
+        opacity: 0.8;
         font-size: 14px;
         line-height: 21px;
         margin-top: 65px;
