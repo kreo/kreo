@@ -1,8 +1,8 @@
 {
-  "name": "nuxtjs",
+  "name": "kreo",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
-  "author": "msweeneydev",
+  "description": "My site",
+  "author": "kreo",
   "private": true,
   "scripts": {
     "dev": "nuxt",
