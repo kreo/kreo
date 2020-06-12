@@ -1,28 +1,22 @@
 <template>
   <div class="container">
-    <!-- <Brand /> -->
-    <FakeError />
+    <Fuck />
   </div>
 </template>
 
 <script>
-import Brand from '@/components/Brand.vue'
-import FakeError from '@/components/FakeError.vue'
+import Fuck from '@/components/Fuck.vue'
 
 export default {
   components: {
-    Brand,
-    FakeError
+    Fuck
   }
 }
 </script>
 
 <style>
-* {
-  margin: 0;
-  padding: 0;
-}
 html {
+  box-sizing: border-box;
   min-height: 100%;
   height: 100%;
 }
@@ -32,6 +26,12 @@ body {
   background: #08080c;
   background: radial-gradient(#08080c, #000);
   background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
 }
 
 .container {
