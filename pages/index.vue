@@ -20,11 +20,15 @@ export default {
   padding: 0;
 }
 html {
+  min-height: 100%;
   height: 100%;
 }
 body {
   height: 100%;
   overflow: hidden;
+  background: #08080c;
+  background: radial-gradient(#08080c, #000);
+  background-size: cover;
 }
 
 .container {
