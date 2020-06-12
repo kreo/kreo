@@ -2,7 +2,7 @@
   <div :class="name">
     <img
       :class="`${name}__media`"
-      src="https://media.giphy.com/media/TqiwHbFBaZ4ti/source.gif"
+      src="~/assets/images/fuck.gif"
       alt="error"
     />
   </div>
