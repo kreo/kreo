@@ -1,15 +1,15 @@
 <template>
   <div class="container">
-
+    <Brand />
   </div>
 </template>
 
 <script>
-import Space from '@/components/Space.vue'
+import Brand from '@/components/Brand.vue'
 
 export default {
   components: {
-    Space
+    Brand
   }
 }
 </script>
