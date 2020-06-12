@@ -10,7 +10,8 @@
     "start": "nuxt start"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "three": "^0.117.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
