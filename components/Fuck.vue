@@ -33,11 +33,8 @@
 }
 
 .Fuck__media {
-  display: block;
-  width: 100%;
   max-width: 50vw;
   max-height: 50vh;
-  margin: 0 auto;
   object-fit: cover;
   object-position: center;
 }
