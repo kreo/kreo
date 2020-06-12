@@ -21,20 +21,13 @@
 
 <style scoped>
 .triangle {
-  // The actual clipping effect
   clip-path: url(#cp);
-
-  // Keep it proportional
   width: 25vw;
   height: 25vw;
   max-height: 75vh;
   max-width: 75vh;
-
-  // Add the styling
   background-size: cover;
   background-blend-mode: screen;
-
-  // Center them
   position: absolute;
   top: 50%;
   left: 50%;
@@ -52,7 +45,6 @@
   /*background-image: url("https://www.fromanniek.com/wp-content/uploads/2018/06/0587f251249217.58e7079c0894c.gif");*/
 
   transform: translateX(-35%) translateY(-50%);
-
   opacity: 1;
 }
 </style>
