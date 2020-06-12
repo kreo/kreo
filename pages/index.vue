@@ -1,15 +1,18 @@
 <template>
   <div class="container">
-    <Brand />
+    <!-- <Brand /> -->
+    <FakeError />
   </div>
 </template>
 
 <script>
 import Brand from '@/components/Brand.vue'
+import FakeError from '@/components/FakeError.vue'
 
 export default {
   components: {
-    Brand
+    Brand,
+    FakeError
   }
 }
 </script>
