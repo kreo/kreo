@@ -1,29 +1,9 @@
-# Nuxt.js Example
+### Hi there 👋, my name is Fabio Cencetti. I live in Bari, Italy with my 2 daughters and my wife. I love writing code, learning new things, and swimming. I also like to draw, watch movies, and spend time with my Familiy.
 
-This directory is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with Vercel and zero configuration.
+[![kreo's github stats](https://github-readme-stats.vercel.app/api?username=kreo)](https://github.com/kreo/github-readme-stats)
 
-## Deploy Your Own
 
-Deploy your own Nuxt.js project with Vercel.
+- 🔭 I’m currently working on some awesome project with an awesome team at https://frankhood.it
+- 🌱 I’m currently developing using TailwindCSS, VueJs, Vuex and Postcss
+- 📫 How to reach me: Visit me on twitter at https://twitter.com/_kreo
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/nuxtjs)
-
-_Live Example: https://nuxtjs.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Nuxt.js deployed with Vercel, you can use the [Create-Nuxt-App CLI](https://www.npmjs.com/package/create-nuxt-app) to initialize the project:
-
-```shell
-$ npx create-nuxt-app my-app
-```
-
-> The only change made is to amend the output directory in `nuxt.config.js` to `"/public"`.
-
-### Deploying From Your Terminal
-
-You can deploy your new Nuxt.js project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
