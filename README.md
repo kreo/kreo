@@ -9,8 +9,7 @@
 ![kreo's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=kreo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
 -->
 
-🌈 I'm a Design Systems maker.
-🔭 I’m currently working on some awesome project with an awesome team at https://frankhood.it
-🌱 I’m currently developing using TailwindCSS, VueJs, Vuex and Postcss
-📫 How to reach me: Visit me on twitter at https://twitter.com/_kreo
-
+🌈 I'm a Design Systems maker. <br>
+🔭 I’m currently working on some awesome project with an awesome team at https://frankhood.it <br>
+🌱 I’m currently developing using TailwindCSS, VueJs, Vuex and Postcss <br>
+📫 How to reach me: Visit me on twitter at https://twitter.com/_kreo <br>
