@@ -4,7 +4,7 @@
 ⬡: [@_kreo](https://twitter.com/_kreo) <br>
 ▽: When you look at the black sky of your mind, observe with other eyes... also stars can't shine without darkness <br>
 
-### Hi there 👋, my name is Fabio Cencetti. I'm an UX Engineer and i live in Italy with my 2 daughters and my wife. I love writing code, learning new things, and swimming. I also like to draw, watch movies, and spend time with my Familiy.
+### Hi there 👋, my name is Fabio Cencetti. I'm an UX Engineer and i live in Italy with my 2 daughters and my wife. I love writing code, learning new things, and watching sci-fi movies. I also like to draw, swimm, and spend time with my Familiy.
 
 
 ![kreo's github stats](https://github-readme-stats.vercel.app/api?username=kreo&show_icons=true&title_color=ade9e9&icon_color=ade9e9&text_color=fff&bg_color=0d1117&count_private=true&include_all_commits=true&layout=compact)
