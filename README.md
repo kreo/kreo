@@ -16,6 +16,6 @@
 🌈 I'm a Design Systems maker. <br>
 🧠 I have a creative and proactive mind <br>
 💢 I'm a problem solver <br>
-🔭 I’m currently working on some awesome project with an awesome team at https://frankhood.it <br>
+🔭 I’m currently working on some awesome project at https://reactiveway.com <br>
 🌱 I’m currently developing using Nuxt, Vue, Vuex and Postcss <br>
 📫 How to reach me: Visit me on twitter at https://twitter.com/_kreo <br>
