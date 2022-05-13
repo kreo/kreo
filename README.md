@@ -28,31 +28,21 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 - 🌐 &nbsp;Frontend:&nbsp;
   ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxt.js)
+  ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Webstorm](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
+  ![Webstorm](https://img.shields.io/badge/-Webstorm-0A1A2F?style=flat&logo=webstorm&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 <br>
 
-<h3> 🛠 &nbsp;Soft Skills</h3>
-
-🌈 I'm a Design Systems maker. <br>
-🧠 I have a creative and proactive mind <br>
-💢 I'm a problem solver <br>
-
-<br>
-
 <h3> 🛠 &nbsp;Contacts</h3>
-<!--
-📫 How to reach me: Visit me on twitter at https://twitter.com/_kreo <br>
--->
 
 ⌁: [#UXEngineer](https://twitter.com/search?q=%23UXEngineer&src=hashtag_click) <br>
 ⬡: [@_kreo](https://twitter.com/_kreo) <br>
