@@ -30,7 +30,7 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;Frontend:&nbsp;
-  ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
+  ![Vue](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=vuedotjs)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxt.js)
   ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
 - ⚙️ &nbsp;VCS: &nbsp;
