@@ -23,6 +23,10 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 “A Design System isn’t a Project. It’s a Product, Serving Products. “ — Nathan Curtis
 </blockquote>
 
+<a href="https://github.com/kreo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kreo&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+</a>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;Frontend:&nbsp;
@@ -44,13 +48,6 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 
 <h3> 🛠 &nbsp;Contacts</h3>
 
-⌁: [#UXEngineer](https://twitter.com/search?q=%23UXEngineer&src=hashtag_click) <br>
 ⬡: [@_kreo](https://twitter.com/_kreo) <br>
 ▽: When you look at the black sky of your mind, observe with other eyes... also stars can't shine without darkness <br>
 🔭: I’m currently working on some awesome project at https://reactiveway.com <br>
-
-<br>
-
-<a href="https://github.com/kreo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kreo&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a>
