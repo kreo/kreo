@@ -1,19 +1,5 @@
-<!--
-![kreo's github stats](https://github-readme-stats.vercel.app/api?username=kreo&show_icons=true&title_color=ade9e9&icon_color=ade9e9&text_color=fff&bg_color=0d1117&count_private=true&include_all_commits=true&layout=compact)
--->
 
-<!---
-![kreo's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=kreo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
--->
 
-<!--
-🌈 I'm a Design Systems maker. <br>
-🧠 I have a creative and proactive mind <br>
-💢 I'm a problem solver <br>
-🔭 I’m currently working on some awesome project at https://reactiveway.com <br>
-🌱 I’m currently developing using Vue, Vuex and Postcss <br>
-📫 How to reach me: Visit me on twitter at https://twitter.com/_kreo <br>
--->
 <!--
 <p align="center">
   <a href="https://kreo.dev" target="_blank">
@@ -55,9 +41,23 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 
 <br>
 
+<h3> 🛠 &nbsp;Soft Skills</h3>
+
+🌈 I'm a Design Systems maker. <br>
+🧠 I have a creative and proactive mind <br>
+💢 I'm a problem solver <br>
+
+<br>
+
+<h3> 🛠 &nbsp;Contacts</h3>
+<!--
+📫 How to reach me: Visit me on twitter at https://twitter.com/_kreo <br>
+-->
+
 ⌁: [#UXEngineer](https://twitter.com/search?q=%23UXEngineer&src=hashtag_click) <br>
 ⬡: [@_kreo](https://twitter.com/_kreo) <br>
 ▽: When you look at the black sky of your mind, observe with other eyes... also stars can't shine without darkness <br>
+🔭: I’m currently working on some awesome project at https://reactiveway.com <br>
 
 <br>
 
