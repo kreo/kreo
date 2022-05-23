@@ -48,6 +48,10 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 
 <h3> 🛠 &nbsp;Contacts</h3>
 
-⬡: [@_kreo](https://twitter.com/_kreo) <br>
-▽: When you look at the black sky of your mind, observe with other eyes... also stars can't shine without darkness <br>
+⬡: [@_kreo](https://twitter.com/_kreo) <br> 
 🔭: I’m currently working on some awesome project at https://reactiveway.com <br>
+
+<blockquote>
+“Look the dark of your mind, even stars can't shine without darkness...“
+</blockquote>  
+
