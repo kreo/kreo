@@ -10,7 +10,7 @@
 
 <h2> Welcome 👋 , I'm Fabio Cencetti.</h2>
 <p>
-I'm a UX Engineer with about 14+ years experience based in Bari IT, i've worked as UX Engineer, UI / Front-end Developer and Product / Web / UI / UX Designer for many italian companies.
+I'm a UX Engineer with about 15+ years experience based in Bari IT, i've worked as UX Engineer, UI / Front-end Developer and Product / Web / UI / UX Designer for many italian companies.
 Using a solid understanding of current practices and web technologies, i develop stunning
 responsive web experiences.
 </p>
