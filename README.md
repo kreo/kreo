@@ -30,11 +30,11 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;Frontend:&nbsp;
-  ![Lit.js](https://img.shields.io/badge/-Lit.js-0A1A2F?style=flat&logo=lit.js)
+  ![Lit](https://img.shields.io/badge/-Lit.js-0A1A2F?style=flat&logo=litjs)
   ![Vue](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=vuedotjs)
-  ![React](https://img.shields.io/badge/-React.js-0A1A2F?style=flat&logo=react.js)
-  ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxt.js)
-  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+  ![React](https://img.shields.io/badge/-React.js-0A1A2F?style=flat&logo=reactjs)
+  ![Nuxt](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxtjs)
+  ![Next](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=nextjs)
   ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
