@@ -30,8 +30,11 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;Frontend:&nbsp;
+  ![Lit.js](https://img.shields.io/badge/-Lit.js-0A1A2F?style=flat&logo=lit.js)
   ![Vue](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=vuedotjs)
+  ![React](https://img.shields.io/badge/-React.js-0A1A2F?style=flat&logo=react.js)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxt.js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
   ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
@@ -41,7 +44,6 @@ As UX Engineer I build modular and scalable web interfaces, components library, 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-0A1A2F?style=flat&logo=webstorm&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 <br>
