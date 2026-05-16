@@ -66,8 +66,7 @@ Let's talk about making your product scalable, setting up token automation, or t
 
 *   🌐 **Website:** [reactiveway.com](https://reactiveway.com)
 *   🐦 **X (Twitter):** [@_kreo](https://twitter.com/_kreo)
-*   💼 **LinkedIn:** [linkedin.com/in/fabiocencetti](https://linkedin.com/in/fabiocencetti) *(Aggiungi il tuo link reale)*
-
+*   💼 **LinkedIn:** [linkedin.com/in/kreo](https://linkedin.com/in/kreo)
 <br>
 
 > *“Look at the dark of your mind, even stars can't shine without darkness...”*
