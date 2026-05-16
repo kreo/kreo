@@ -1,60 +1,80 @@
+Ci sono! Il tuo testo di partenza ha un'ottima base, ma unendo la parte iniziale (in inglese, stile classico da profilo GitHub) con la descrizione più recente e strutturata (in italiano, molto più focalizzata sul tuo ruolo da Architect/Product Owner), rischiamo di creare un "frankenstein" linguistico e concettuale.
 
+Visto che ti posizioni come UX Engineer & Design System Architect di alto livello, il README deve riflettere questa seniority con un layout pulito, "Swiss design" (visto che ti piace lo stile minimal e tipografico), scannabile e professionale.
 
-<!--
+Ti propongo due strade: Versione 1 completamente in inglese (scelta consigliata per GitHub) e Versione 2 in italiano. Ho già aggiornato gli anni di esperienza a 16+ e ottimizzato i tag della Tech Stack ordinandoli per rilevanza (mettendo Lit, TypeScript e i componenti modulari in primo piano).
+Opzione 1: Versione in Inglese (Consigliata per GitHub)
+Markdown
+
 <p align="center">
-  <a href="https://kreo.dev" target="_blank">
-    <img width="40em" height="40em" src="logo.svg">
+  <a href="https://reactiveway.com" target="_blank">
+    <!-- Puoi decommentare e usare il tuo logo o un'immagine di brand minimal -->
+    <!-- <img width="60px" height="60px" src="logo.svg" alt="Reactiveway Logo"> -->
   </a>
 </p>
--->
 
-<h2> Welcome 👋 , I'm Fabio Cencetti.</h2>
-<p>
-I'm a UX Engineer with about 15+ years experience based in Bari IT, i've worked as UX Engineer, UI / Front-end Developer and Product / Web / UI / UX Designer for many italian companies.
-Using a solid understanding of current practices and web technologies, i develop stunning
-responsive web experiences.
-</p>
+# Hi there, I'm Fabio Cencetti 👋
+### UX Engineer & Design System Architect | Product Owner
 
-<p>
-As UX Engineer I build modular and scalable web interfaces, components library, design systems and CSS frameworks.<br>
-</p>  
+I bridge the gap between design, engineering, and product strategy. With **16+ years of professional experience**, I specialize in building scalable web interfaces, modular component libraries, and automated Design System architectures.
 
-<blockquote>
-“A Design System isn’t a Project. It’s a Product, Serving Products. “ — Nathan Curtis
-</blockquote>
+Currently based in Bari, Italy, I work as a consultant and entrepreneur through [Reactiveway](https://reactiveway.com), helping companies scale their digital products.
 
-<a href="https://github.com/kreo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kreo&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a>
+---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🚀 What I Do
 
-- 🌐 &nbsp;Frontend:&nbsp;
-  ![Lit](https://img.shields.io/badge/-Lit.js-0A1A2F?style=flat&logo=litjs)
-  ![Vue](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=vuedotjs)
-  ![React](https://img.shields.io/badge/-React.js-0A1A2F?style=flat&logo=reactjs)
-  ![Nuxt](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxtjs)
-  ![Next](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=nextjs)
-  ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
-- ⚙️ &nbsp;VCS: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
-- 🔧 &nbsp;IDE's:&nbsp;
-  ![Cursor](https://img.shields.io/badge/-Cursor-0A1A2F?style=flat&logo=cursor&logoColor=007ACC) 
-  ![Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Webstorm](https://img.shields.io/badge/-Webstorm-0A1A2F?style=flat&logo=webstorm&logoColor=007ACC)
-- 🖥 &nbsp;Design:&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+*   **Design System Architecture:** Designing multi-brand and multi-theme token taxonomies and token orchestration workflows.
+*   **Product Ownership & Governance:** Managing the entire lifecycle of enterprise design systems, defining roadmaps, and driving cross-functional adoption.
+*   **Component Engineering:** Building robust, framework-agnostic web components with a strong focus on accessibility, performance, and developer experience.
+
+> “A Design System isn’t a Project. It’s a Product, Serving Products.” — Nathan Curtis
+
+---
+
+## 🛠 Tech Stack & Tools
+
+*   **Core & Frontend:** 
+    ![Lit](https://img.shields.io/badge/-Lit.js-0A1A2F?style=flat&logo=litjs)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript&logoColor=white)
+    ![Web Components](https://img.shields.io/badge/-Web%20Components-0A1A2F?style=flat&logo=html5&logoColor=white)
+    ![Vue](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=vuedotjs)
+    ![React](https://img.shields.io/badge/-React.js-0A1A2F?style=flat&logo=reactjs)
+*   **Frameworks & Meta-frameworks:**
+    ![Nuxt](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxtjs)
+    ![Next](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=nextjs)
+    ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
+*   **Design & Spec:**
+    ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+    ![Storybook](https://img.shields.io/badge/-Storybook-0A1A2F?style=flat&logo=storybook&logoColor=white)
+*   **AI & Workspace:**
+    ![Cursor](https://img.shields.io/badge/-Cursor-0A1A2F?style=flat&logo=cursor&logoColor=007ACC) 
+    ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+    ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+
+---
+
+## 💼 Track Record
+
+I have designed and engineered solutions for local startups and global enterprise brands alike, including:
+**Aruba** • **Barilla** • **Enel** • **Mondelēz** • **Natuzzi**
+
+### Recent Milestone
+Led an enterprise-level Design System acting as Product Owner and Architect:
+*   **110+ core components** and composition patterns.
+*   Complex multi-theme architecture powered by **Design Tokens**.
+*   Full governance implementation, driving code/design reviews and cross-team scaling.
+
+---
+
+## 📬 Let's Connect
+
+Let's talk about making your product scalable, setting up token automation, or technical advisory.
+
+*   🌐 **Website:** [reactiveway.com](https://reactiveway.com)
+*   🐦 **X (Twitter):** [@_kreo](https://twitter.com/_kreo)
+*   💼 **LinkedIn:** [linkedin.com/in/fabiocencetti](https://linkedin.com/in/fabiocencetti) *(Aggiungi il tuo link reale)*
 
 <br>
 
-<h3> 🛠 &nbsp;Contacts</h3>
-
-⬡: [@_kreo](https://twitter.com/_kreo) <br> 
-🔭: I’m currently working on some awesome project at https://reactiveway.com <br>
-
-<blockquote>
-“Look the dark of your mind, even stars can't shine without darkness...“
-</blockquote>  
-
+> *“Look at the dark of your mind, even stars can't shine without darkness...”*
