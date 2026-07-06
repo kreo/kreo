@@ -42,7 +42,6 @@ Currently based in Bari, Italy, I work as a consultant and entrepreneur through 
     ![Storybook](https://img.shields.io/badge/-Storybook-0A1A2F?style=flat&logo=storybook&logoColor=white)
 *   **AI & Workspace:**
     ![Cursor](https://img.shields.io/badge/-Cursor-0A1A2F?style=flat&logo=cursor&logoColor=007ACC) 
-    ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
     ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
 
 ---
